@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mahantesh Kamate 👋
 
-<!--
-**Mahantesh-kamate/Mahantesh-Kamate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Data Engineer
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Spring Boot
+- Python
+- SQL
+- Microsoft Fabric
+- Power BI
+- PySpark
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Microsoft DP-600 Fabric Analytics Engineer (In Progress)
+
+## Projects
+- ShopSphere E-Commerce Backend
+- HireHub Job Portal
+- Fabric Real-Time Intelligence Pipeline
+- Retail Analytics & Churn Prediction
+
+## Connect
+📍 Bangalore, India
+
+🔗 LinkedIn: linkedin.com/in/mahanteshkamate
+
+📧 mahanteshkamate18@gmail.com
